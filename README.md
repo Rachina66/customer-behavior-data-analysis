@@ -99,7 +99,7 @@ Slicers
 
 1.6 How to Run
 1. Clone the repository
-git clone https://github.com/your-username/customer-behavior-analysis.git
+git clone https://github.com/Rachina66/customer-behavior-analysis.git
 2. Install required libraries
 pip install pandas sqlalchemy pyodbc matplotlib seaborn
 3. Run the project
